@@ -1,0 +1,983 @@
+{
+  "1": {
+    "1":{
+  "CSE": [
+    {"subject": "Linear Algebra, Calculus and Differential Equations", "credits": 3},
+    {"subject": "Engineering Physics", "credits": 3},
+    {"subject": "Basic Electrical and Electronics Engineering", "credits": 3},
+    {"subject": "Programming for Problem Solving", "credits": 4},
+    {"subject": "Engineering Physics Lab", "credits": 1},
+    {"subject": "Basic Electrical and Electronics Engineering Lab", "credits": 1},
+    {"subject": "Programming for Problem Solving Lab", "credits": 1.5},
+    {"subject": "Engineering Graphics", "credits": 2},
+    {"subject": "NSS/NCC Community Service", "credits": 0.5}
+  ],
+  "IT": [
+    {"subject": "Linear Algebra, Calculus and Differential Equations", "credits": 3},
+    {"subject": "Engineering Physics", "credits": 3},
+    {"subject": "Basic Electrical and Electronics Engineering", "credits": 3},
+    {"subject": "Programming for Problem Solving", "credits": 4},
+    {"subject": "Engineering Physics Lab", "credits": 1},
+    {"subject": "Basic Electrical and Electronics Engineering Lab", "credits": 1},
+    {"subject": "Programming for Problem Solving Lab", "credits": 1.5},
+    {"subject": "Engineering Graphics", "credits": 2},
+    {"subject": "NSS/NCC Community Service", "credits": 0.5}
+  ],
+  "CSM": [
+    {"subject": "Linear Algebra, Calculus and Differential Equations", "credits": 3},
+    {"subject": "Engineering Chemistry", "credits": 3},
+    {"subject": "Basic Electrical and Electronics Engineering", "credits": 3},
+    {"subject": "Programming for Problem Solving", "credits": 4},
+    {"subject": "Engineering Chemistry Lab", "credits": 1},
+    {"subject": "Basic Electrical and Electronics Engineering Lab", "credits": 1},
+    {"subject": "Programming for Problem Solving Lab", "credits": 1.5},
+    {"subject": "Engineering Graphics", "credits": 2},
+    {"subject": "Health and Wellness, Yoga and Sports", "credits": 0.5}
+  ],
+  "CSBS": [
+    {"subject": "Discrete Mathematics", "credits": 3},
+    {"subject": "Fundamental of Physics", "credits": 3},
+    {"subject": "Principles of Electrical Engineering", "credits": 3},
+    {"subject": "Fundamentals of Computer Science", "credits": 3},
+    {"subject": "Statistics and Probability", "credits": 2},
+    {"subject": "Physics Lab", "credits": 1},
+    {"subject": "Principles of Electrical Engineering Lab", "credits": 1},
+    {"subject": "Fundamentals of Computer Science Lab", "credits": 1.5},
+    {"subject": "Business Communication Lab", "credits": 1},
+    {"subject": "NSS/NCC Community Service", "credits": 0.5}
+  ],
+  "CHEM": [
+    {"subject": "Matrices and Calculus", "credits": 3},
+    {"subject": "Physical Chemistry", "credits": 3},
+    {"subject": "Basic Civil and Mechanical Engineering", "credits": 3},
+    {"subject": "Programming with C", "credits": 4},
+    {"subject": "Communicative English", "credits": 2},
+    {"subject": "Engineering Chemistry Lab", "credits": 1},
+    {"subject": "Communicative English Lab", "credits": 1},
+    {"subject": "Programming with C Lab", "credits": 1.5},
+    {"subject": "Health and Wellness, Yoga and Sports", "credits": 0.5}
+  ],
+  "CIVIL": [
+    {"subject": "Matrices and Calculus", "credits": 3},
+    {"subject": "Applied Chemistry", "credits": 3},
+    {"subject": "Basic Civil and Mechanical Engineering", "credits": 3},
+    {"subject": "Programming with C", "credits": 4},
+    {"subject": "Communicative English", "credits": 2},
+    {"subject": "Engineering Chemistry Lab", "credits": 1},
+    {"subject": "Communicative English Lab", "credits": 1},
+    {"subject": "Programming with C Lab", "credits": 1.5},
+    {"subject": "Health and Wellness, Yoga and Sports", "credits": 0.5}
+  ],
+  "IOT": [
+    {"subject": "Linear Algebra, Calculus and Differential Equations", "credits": 3},
+    {"subject": "Engineering Physics", "credits": 3},
+    {"subject": "Basic Electrical and Electronics Engineering", "credits": 3},
+    {"subject": "Programming for Problem Solving", "credits": 4},
+    {"subject": "Engineering Physics Lab", "credits": 1},
+    {"subject": "Basic Electrical and Electronics Engineering Lab", "credits": 1},
+    {"subject": "Programming for Problem Solving Lab", "credits": 1.5},
+    {"subject": "Engineering Graphics", "credits": 2},
+    {"subject": "NSS/NCC Community Service", "credits": 0.5}
+  ],
+  "ECE": [
+    {"subject": "Linear Algebra and Calculus", "credits": 3},
+    {"subject": "Chemistry for Engineers", "credits": 3},
+    {"subject": "Basic Civil and Mechanical Engineering", "credits": 3},
+    {"subject": "Programming for Problem Solving", "credits": 4},
+    {"subject": "Communicative English", "credits": 2},
+    {"subject": "Engineering Chemistry Lab", "credits": 1},
+    {"subject": "Communicative English Lab", "credits": 1},
+    {"subject": "Programming for Problem Solving Lab", "credits": 1.5},
+    {"subject": "Health and Wellness, Yoga and Sports", "credits": 0.5}
+  ],
+  "EEE": [
+    {"subject": "Linear Algebra and Calculus", "credits": 3},
+    {"subject": "Engineering Physics", "credits": 3},
+    {"subject": "Basic Electrical and Electronics Engineering", "credits": 3},
+    {"subject": "Engineering Mechanics", "credits": 3},
+    {"subject": "Engineering Physics Lab", "credits": 1},
+    {"subject": "Basic Electrical and Electronics Engineering Lab", "credits": 1.5},
+    {"subject": "Communicative English Lab", "credits": 1},
+    {"subject": "Engineering Graphics", "credits": 3},
+    {"subject": "NSS/NCC Community Service", "credits": 0.5}
+  ],
+  "CSD": [
+    {"subject": "Linear Algebra, Calculus and Differential Equations", "credits": 3},
+    {"subject": "Engineering Physics", "credits": 3},
+    {"subject": "Basic Electrical and Electronics Engineering", "credits": 3},
+    {"subject": "Programming for Problem Solving", "credits": 4},
+    {"subject": "Engineering Physics Lab", "credits": 1},
+    {"subject": "Basic Electrical and Electronics Engineering Lab", "credits": 1},
+    {"subject": "Programming for Problem Solving Lab", "credits": 1.5},
+    {"subject": "Engineering Graphics", "credits": 2},
+    {"subject": "NSS/NCC Community Service", "credits": 0.5}
+  ]
+},
+
+    "2": {
+  "CSE": [
+    {"subject": "Integral Calculus and Transforms", "credits": 3},
+    {"subject": "Engineering Chemistry", "credits": 2},
+    {"subject": "Communicative English", "credits": 2},
+    {"subject": "Digital Logic Design", "credits": 3},
+    {"subject": "Python Programming", "credits": 2},
+    {"subject": "Data Structures", "credits": 4},
+    {"subject": "Engineering Chemistry Lab", "credits": 1},
+    {"subject": "Communicative English Lab", "credits": 1},
+    {"subject": "Python Programming Lab", "credits": 1},
+    {"subject": "Data Structures Lab", "credits": 1.5},
+    {"subject": "Health and Wellness, Yoga and Sports", "credits": 0.5}
+  ],
+  "IT": [
+    {"subject": "Integral Calculus and Transforms", "credits": 3},
+    {"subject": "Engineering Chemistry", "credits": 2},
+    {"subject": "Communicative English", "credits": 2},
+    {"subject": "Digital Logic Design", "credits": 3},
+    {"subject": "Python Programming", "credits": 2},
+    {"subject": "Data Structures", "credits": 4},
+    {"subject": "Engineering Chemistry Lab", "credits": 1},
+    {"subject": "Communicative English Lab", "credits": 1},
+    {"subject": "Python Programming Lab", "credits": 1},
+    {"subject": "Data Structures Lab", "credits": 1.5},
+    {"subject": "Health and Wellness, Yoga and Sports", "credits": 0.5}
+  ],
+  "CSM": [
+    {"subject": "Integral Calculus and Transforms", "credits": 3},
+    {"subject": "Applied Physics", "credits": 3},
+    {"subject": "Communicative English", "credits": 2},
+    {"subject": "Digital Logic Design", "credits": 3},
+    {"subject": "Python Programming", "credits": 2},
+    {"subject": "Data Structures and Algorithms", "credits": 3},
+    {"subject": "Applied Physics Lab", "credits": 1},
+    {"subject": "Communicative English Lab", "credits": 1},
+    {"subject": "Python Programming Lab", "credits": 1},
+    {"subject": "Data Structures and Algorithms Lab", "credits": 1.5},
+    {"subject": "NSS NCC Community Service", "credits": 0.5}
+  ],
+  "CSBS": [
+    {"subject": "Linear Algebra", "credits": 3},
+    {"subject": "Statistical Methods", "credits": 3},
+    {"subject": "Fundamentals of Economics", "credits": 2},
+    {"subject": "Principles of Electronics Engineering", "credits": 3},
+    {"subject": "Python Programming", "credits": 2},
+    {"subject": "Data Structures and Algorithms", "credits": 3},
+    {"subject": "Statistical Methods Lab", "credits": 1},
+    {"subject": "Business Communication and Value Science-II Lab", "credits": 1},
+    {"subject": "Python Programming Lab", "credits": 1},
+    {"subject": "Data Structures and Algorithms Lab", "credits": 1.5},
+    {"subject": "Health and Wellness, Yoga and Sports", "credits": 0.5}
+  ],
+  "CIVIL": [
+    {"subject": "Differential Equations and Vector Calculus", "credits": 3},
+    {"subject": "Physics for Engineers", "credits": 3},
+    {"subject": "Basic Electrical and Electronics Engineering", "credits": 3},
+    {"subject": "Mechanics for Engineers", "credits": 3},
+    {"subject": "Engineering Physics Lab", "credits": 1},
+    {"subject": "Basic Electrical and Electronics Engineering Lab", "credits": 1.5},
+    {"subject": "Computer Aided Building Drawing", "credits": 1.5},
+    {"subject": "Engineering Workshop", "credits": 1.5},
+    {"subject": "Engineering Drawing Practice", "credits": 3},
+    {"subject": "NSS NCC Community Service", "credits": 0.5}
+  ],
+  "CHEMICAL": [
+    {"subject": "Differential Equations and Vector Calculus", "credits": 3},
+    {"subject": "Physics of Engineering Materials", "credits": 3},
+    {"subject": "Basic Electrical and Electronics Engineering", "credits": 3},
+    {"subject": "Fluid and Particle Mechanics", "credits": 3},
+    {"subject": "Engineering Physics Lab", "credits": 1},
+    {"subject": "Basic Electrical and Electronics Engineering Lab", "credits": 1.5},
+    {"subject": "Fluid and Particle Mechanics Lab", "credits": 1.5},
+    {"subject": "Engineering Workshop", "credits": 1.5},
+    {"subject": "Engineering Graphics", "credits": 3},
+    {"subject": "NSS NCC Community Service", "credits": 0.5}
+  ],
+  "MECH": [
+    {"subject": "Differential Equations and Vector Calculus", "credits": 3},
+    {"subject": "Engineering Physics", "credits": 3},
+    {"subject": "Basic Electrical and Electronics Engineering", "credits": 3},
+    {"subject": "Engineering Mechanics", "credits": 3},
+    {"subject": "Engineering Drawing", "credits": 3},
+    {"subject": "Engineering Physics Lab", "credits": 1},
+    {"subject": "Basic Electrical and Electronics Engineering Lab", "credits": 1.5},
+    {"subject": "Python Programming Lab", "credits": 1.5},
+    {"subject": "Engineering Workshop", "credits": 1.5},
+    {"subject": "NSS NCC Community Service", "credits": 0.5}
+  ],
+  "ECE": [
+    {"subject": "Differential Equations, Transforms and Vector Calculus", "credits": 3},
+    {"subject": "Engineering Physics", "credits": 3},
+    {"subject": "Programming With Python", "credits": 2},
+    {"subject": "Basic Electrical Circuits and Electronic Devices", "credits": 4},
+    {"subject": "Engineering Physics Lab", "credits": 1},
+    {"subject": "Programming With Python Lab", "credits": 1.5},
+    {"subject": "Basic Electrical Circuits and Electronic Devices Lab", "credits": 1.5},
+    {"subject": "Engineering Workshop", "credits": 1.5},
+    {"subject": "Engineering Graphics", "credits": 3},
+    {"subject": "NSS NCC Community Service", "credits": 0.5}
+  ],
+  "EEE": [
+    {"subject": "Differential Equations and Vector Calculus", "credits": 3},
+    {"subject": "Engineering Physics", "credits": 3},
+    {"subject": "Basic Electrical and Electronics Engineering", "credits": 3},
+    {"subject": "Mechanics", "credits": 3},
+    {"subject": "Engineering Physics Lab", "credits": 1},
+    {"subject": "Basic Electrical and Electronics Engineering Lab", "credits": 1.5},
+    {"subject": "Communicative English Lab", "credits": 1},
+    {"subject": "Engineering Graphics", "credits": 3},
+    {"subject": "NSS NCC Community Service", "credits": 0.5}
+  ],
+  "CSD": [
+    {"subject": "Integral Calculus and Transforms", "credits": 3},
+    {"subject": "Engineering Chemistry", "credits": 2},
+    {"subject": "Communicative English", "credits": 2},
+    {"subject": "Digital Logic Design", "credits": 3},
+    {"subject": "Python for Data Science", "credits": 2},
+    {"subject": "Data Structures", "credits": 4},
+    {"subject": "Engineering Chemistry Lab", "credits": 1},
+    {"subject": "Communicative English Lab", "credits": 1},
+    {"subject": "Python for Data Science Lab", "credits": 1},
+    {"subject": "Data Structures Lab", "credits": 1.5},
+    {"subject": "Health and Wellness, Yoga and Sports", "credits": 0.5}
+  ],
+  "IOT": [
+    {"subject": "Integral Calculus and Transforms", "credits": 3},
+    {"subject": "Engineering Chemistry", "credits": 2},
+    {"subject": "Communicative English", "credits": 2},
+    {"subject": "Digital Logic Design", "credits": 3},
+    {"subject": "Python Programming", "credits": 2},
+    {"subject": "Data Structures", "credits": 4},
+    {"subject": "Engineering Chemistry Lab", "credits": 1},
+    {"subject": "Communicative English Lab", "credits": 1},
+    {"subject": "Python Programming Lab", "credits": 1},
+    {"subject": "Data Structures Lab", "credits": 1.5},
+    {"subject": "Health and Wellness, Yoga and Sports", "credits": 0.5}
+  ]
+
+    }
+  },
+  "2": {
+    "1":{
+  "CSE": [
+    {"subject": "Probability, Statistics, Complex Analysis", "credits": 3},
+    {"subject": "Universal Human Values-II Understanding Harmony", "credits": 2},
+    {"subject": "Discrete Mathematical Structures", "credits": 3},
+    {"subject": "Computer Organization", "credits": 3},
+    {"subject": "Design and Analysis of Algorithms", "credits": 3},
+    {"subject": "Object Oriented Programming", "credits": 3},
+    {"subject": "Skill Enhancement Course-1", "credits": 2},
+    {"subject": "Design and Analysis of Algorithms Lab", "credits": 1.5},
+    {"subject": "Object Oriented Programming Lab", "credits": 1.5},
+    {"subject": "Constitution of India", "credits": 0}
+  ],
+  "IT": [
+    {"subject": "Probability, Statistics, Complex Analysis", "credits": 3},
+    {"subject": "Universal Human Values-II Understanding Harmony", "credits": 2},
+    {"subject": "Discrete Mathematical Structures", "credits": 3},
+    {"subject": "Computer Organization", "credits": 3},
+    {"subject": "Design and Analysis of Algorithms", "credits": 3},
+    {"subject": "Object Oriented Programming", "credits": 3},
+    {"subject": "Skill Enhancement Course-1", "credits": 2},
+    {"subject": "Design and Analysis of Algorithms Lab", "credits": 1},
+    {"subject": "Object Oriented Programming Lab", "credits": 1},
+    {"subject": "Constitution of India", "credits": 0}
+  ],
+  "CSM": [
+    {"subject": "Probability, Statistics, Complex Analysis", "credits": 3},
+    {"subject": "Universal Human Values-II Understanding Harmony", "credits": 2},
+    {"subject": "Discrete Mathematical Structures", "credits": 3},
+    {"subject": "Computer Organization", "credits": 3},
+    {"subject": "Design and Analysis of Algorithms", "credits": 3},
+    {"subject": "Object Oriented Programming", "credits": 3},
+    {"subject": "Skill Enhancement Course-1", "credits": 2},
+    {"subject": "Design and Analysis of Algorithms Lab", "credits": 1.5},
+    {"subject": "Object Oriented Programming Lab", "credits": 1.5},
+    {"subject": "Environmental Science", "credits": 0}
+  ],
+  "CSBS": [
+    {"subject": "Computational Statistics", "credits": 3},
+    {"subject": "Universal Human Values-II Understanding Harmony", "credits": 2},
+    {"subject": "Computer Organization and Architecture", "credits": 3},
+    {"subject": "Formal Languages and Automata Theory", "credits": 3},
+    {"subject": "Design and Analysis of Algorithms", "credits": 3},
+    {"subject": "Object Oriented Programming", "credits": 3},
+    {"subject": "Skill Enhancement Course-1", "credits": 2},
+    {"subject": "Computational Statistics Lab", "credits": 1},
+    {"subject": "Object Oriented Programming Lab", "credits": 1},
+    {"subject": "Business Communication and Value Science-III Lab", "credits": 1},
+    {"subject": "Constitution of India", "credits": 0}
+  ],
+  "CIVIL": [
+    {"subject": "Numerical Methods, Probability and Statistics", "credits": 3},
+    {"subject": "Engineering Geology and GIS", "credits": 2},
+    {"subject": "Water Supply Engineering", "credits": 3},
+    {"subject": "Fluid Mechanics", "credits": 3},
+    {"subject": "Solid Mechanics-I", "credits": 3},
+    {"subject": "Building Materials and Building Construction", "credits": 2},
+    {"subject": "Skill Enhancement Course-1", "credits": 2},
+    {"subject": "Design Thinking and Innovation", "credits": 2},
+    {"subject": "Engineering Geology and GIS Lab", "credits": 1},
+    {"subject": "Material Testing Lab", "credits": 1},
+    {"subject": "Environmental Science", "credits": 0}
+  ],
+  "CHEMICAL": [
+    {"subject": "Transforms, Probability and Statistics", "credits": 3},
+    {"subject": "Organic Chemistry", "credits": 3},
+    {"subject": "Chemical Engineering Thermodynamics-I", "credits": 3},
+    {"subject": "Chemical Process Calculations", "credits": 3},
+    {"subject": "Mechanical Operations", "credits": 3},
+    {"subject": "Skill Enhancement Course-1", "credits": 2},
+    {"subject": "Design Thinking and Innovation", "credits": 2},
+    {"subject": "Organic Chemistry Lab", "credits": 1},
+    {"subject": "Mechanical Operations Lab", "credits": 1},
+    {"subject": "Environmental Science", "credits": 0}
+  ],
+  "MECH": [
+    {"subject": "Material Science and Metallurgy", "credits": 3},
+    {"subject": "Strength of Materials", "credits": 3},
+    {"subject": "Manufacturing processes", "credits": 3},
+    {"subject": "Basic Thermodynamics", "credits": 3},
+    {"subject": "Kinematics of Machinery", "credits": 3},
+    {"subject": "Skill Enhancement Course-1", "credits": 2},
+    {"subject": "Design Thinking and Innovation", "credits": 2},
+    {"subject": "Machine Drawing with GD T", "credits": 1.5},
+    {"subject": "Modelling Lab", "credits": 1},
+    {"subject": "Environmental Science", "credits": 0}
+  ],
+  "ECE": [
+    {"subject": "Numerical Methods, Probability and Statistics", "credits": 3},
+    {"subject": "Data Structures using Python", "credits": 3},
+    {"subject": "Digital Electronics and Logic Design", "credits": 3},
+    {"subject": "Signals and Systems", "credits": 3},
+    {"subject": "Analog Circuits", "credits": 3},
+    {"subject": "Skill Enhancement Course-1", "credits": 2},
+    {"subject": "Design Thinking and Innovation", "credits": 2},
+    {"subject": "Data Structures using Python Lab", "credits": 1},
+    {"subject": "Digital Electronics and Logic Design Lab", "credits": 1.5},
+    {"subject": "Environmental Science", "credits": 0}
+  ],
+  "EEE": [
+    {"subject": "Numerical Methods, Probability and Statistics", "credits": 3},
+    {"subject": "Data Structures using Python", "credits": 3},
+    {"subject": "Digital Electronics and Logic Design", "credits": 3},
+    {"subject": "Signals and Systems", "credits": 3},
+    {"subject": "Analog Circuits", "credits": 3},
+    {"subject": "Skill Enhancement Course-1", "credits": 2},
+    {"subject": "Design Thinking and Innovation", "credits": 2},
+    {"subject": "Data Structures using Python Lab", "credits": 1},
+    {"subject": "Digital Electronics and Logic Design Lab", "credits": 1.5},
+    {"subject": "Environmental Science", "credits": 0}
+  ],
+  "CSD": [
+    {"subject": "Probability, Statistics, Complex Analysis", "credits": 3},
+    {"subject": "Universal Human Values-II Understanding Harmony", "credits": 2},
+    {"subject": "Discrete Mathematical Structures", "credits": 3},
+    {"subject": "Computer Organization", "credits": 3},
+    {"subject": "Data Visualization", "credits": 3},
+    {"subject": "Object Oriented Programming", "credits": 3},
+    {"subject": "Skill Enhancement Course-1", "credits": 2},
+    {"subject": "Business Communication and Value Science Lab", "credits": 1},
+    {"subject": "Object Oriented Programming Lab", "credits": 1},
+    {"subject": "Data Visualization Lab", "credits": 1},
+    {"subject": "Constitution of India", "credits": 0}
+  ],
+  "IOT": [
+    {"subject": "Probability, Statistics, Complex Analysis", "credits": 3},
+    {"subject": "Universal Human Values-II Understanding Harmony", "credits": 2},
+    {"subject": "Discrete Mathematical Structures", "credits": 3},
+    {"subject": "Computer Organization", "credits": 3},
+    {"subject": "Design and Analysis of Algorithms", "credits": 3},
+    {"subject": "Object Oriented Programming", "credits": 3},
+    {"subject": "Skill Enhancement Course-1", "credits": 2},
+    {"subject": "Design and Analysis of Algorithms Lab", "credits": 1.5},
+    {"subject": "Object Oriented Programming Lab", "credits": 1.5},
+    {"subject": "Constitution of India", "credits": 0}
+  ]
+},
+"2":{
+  "CSE": [
+    {"subject": "Computational Statistics", "credits": 3},
+    {"subject": "Artificial Intelligence", "credits": 3},
+    {"subject": "Database Management Systems", "credits": 3},
+    {"subject": "Operating Systems", "credits": 3},
+    {"subject": "Software Engineering", "credits": 3},
+    {"subject": "Skill Enhancement Course-2", "credits": 2},
+    {"subject": "Design Thinking and Innovation", "credits": 2},
+    {"subject": "Artificial Intelligence Lab", "credits": 1.5},
+    {"subject": "Database Management Systems Lab", "credits": 1.5},
+    {"subject": "Environmental Science", "credits": 0}
+  ],
+  "IT": [
+    {"subject": "Computational Statistics", "credits": 3},
+    {"subject": "Artificial Intelligence", "credits": 3},
+    {"subject": "Database Management Systems", "credits": 3},
+    {"subject": "Operating Systems", "credits": 3},
+    {"subject": "Software Engineering", "credits": 3},
+    {"subject": "Skill Enhancement Course-2", "credits": 2},
+    {"subject": "Design Thinking and Innovation", "credits": 2},
+    {"subject": "Artificial Intelligence Lab", "credits": 1},
+    {"subject": "Database Management Systems Lab", "credits": 1},
+    {"subject": "Environmental Science", "credits": 0}
+  ],
+  "CSM": [
+    {"subject": "Computational Statistics", "credits": 3},
+    {"subject": "Artificial Intelligence", "credits": 3},
+    {"subject": "Database Management System", "credits": 3},
+    {"subject": "Operating System", "credits": 3},
+    {"subject": "Computer Networks", "credits": 3},
+    {"subject": "Skill Enhancement Course-2", "credits": 2},
+    {"subject": "Design Thinking and Innovation", "credits": 2},
+    {"subject": "Artificial Intelligence Lab", "credits": 1.5},
+    {"subject": "Database Management System Lab", "credits": 1.5},
+    {"subject": "Constitution of India", "credits": 0}
+  ],
+  "CSBS": [
+    {"subject": "Financial and Cost Accounting", "credits": 2},
+    {"subject": "Artificial Intelligence", "credits": 3},
+    {"subject": "Database Management System", "credits": 3},
+    {"subject": "Operating System", "credits": 3},
+    {"subject": "Software Engineering", "credits": 3},
+    {"subject": "Introduction to Innovation, IP Management and Entrepreneurship", "credits": 2},
+    {"subject": "Skill Enhancement Course-2", "credits": 2},
+    {"subject": "Design Thinking and Innovation", "credits": 2},
+    {"subject": "Artificial Intelligence Lab", "credits": 1},
+    {"subject": "Database Management System Lab", "credits": 1},
+    {"subject": "Environmental Science", "credits": 0}
+  ],
+  "CIVIL": [
+    {"subject": "Wastewater Engineering", "credits": 3},
+    {"subject": "Universal Human Values-II Understanding Harmony", "credits": 2},
+    {"subject": "Hydraulics and Hydraulic Machines", "credits": 3},
+    {"subject": "Surveying", "credits": 3},
+    {"subject": "Solid Mechanics-II", "credits": 3},
+    {"subject": "Concrete Technology", "credits": 3},
+    {"subject": "Skill Enhancement Course-2", "credits": 2},
+    {"subject": "Fluid Mechanics Lab", "credits": 1},
+    {"subject": "Surveying Field Work", "credits": 1},
+    {"subject": "Constitution of India", "credits": 0}
+  ],
+  "CHEMICAL": [
+    {"subject": "Process Economics and Industrial Management", "credits": 2},
+    {"subject": "Universal Human Values-II Understanding Harmony", "credits": 2},
+    {"subject": "Chemical Engineering Thermodynamics-II", "credits": 3},
+    {"subject": "Process Heat Transfer", "credits": 3},
+    {"subject": "Chemical Technology", "credits": 3},
+    {"subject": "Chemical Reaction Engineering-I", "credits": 3},
+    {"subject": "Skill Enhancement Course-2", "credits": 2},
+    {"subject": "Process Heat Transfer Lab", "credits": 1},
+    {"subject": "Computational Programming Lab", "credits": 2},
+    {"subject": "Chemical Technology Lab", "credits": 1},
+    {"subject": "Constitution of India", "credits": 0}
+  ],
+  "MECH": [
+    {"subject": "Applications of PDE, Numerical Methods, Probability and Statistics", "credits": 3},
+    {"subject": "Universal Human Values-II Understanding Harmony", "credits": 2},
+    {"subject": "Manufacturing Technology", "credits": 3},
+    {"subject": "Applied Thermodynamics", "credits": 3},
+    {"subject": "Fluid Mechanics and Hydraulic Machines", "credits": 3},
+    {"subject": "Operations Management", "credits": 3},
+    {"subject": "Skill Enhancement Course-2", "credits": 2},
+    {"subject": "Manufacturing Process Lab", "credits": 1},
+    {"subject": "Fluid Mechanics and Strength of Materials Lab", "credits": 1.5},
+    {"subject": "Constitution of India", "credits": 0}
+  ],
+  "ECE": [
+    {"subject": "Electronic Circuit Analysis", "credits": 2},
+    {"subject": "Universal Human Values-II Understanding Harmony", "credits": 2},
+    {"subject": "Digital Signal Processing", "credits": 3},
+    {"subject": "Microcontrollers", "credits": 3},
+    {"subject": "Analog Communication", "credits": 3},
+    {"subject": "Electromagnetic Fields and Transmission Lines", "credits": 3},
+    {"subject": "Skill Enhancement Course-2", "credits": 2},
+    {"subject": "Analog Circuits Lab", "credits": 1.5},
+    {"subject": "Digital Signal Processing Lab", "credits": 1},
+    {"subject": "Constitution of India", "credits": 0}
+  ],
+  "EEE": [
+    {"subject": "Electronic Circuit Analysis", "credits": 2},
+    {"subject": "Universal Human Values-II Understanding Harmony", "credits": 2},
+    {"subject": "Digital Signal Processing", "credits": 3},
+    {"subject": "Microcontrollers", "credits": 3},
+    {"subject": "Analog Communication", "credits": 3},
+    {"subject": "Electromagnetic Fields and Transmission Lines", "credits": 3},
+    {"subject": "Skill Enhancement Course-2", "credits": 2},
+    {"subject": "Analog Circuits Lab", "credits": 1.5},
+    {"subject": "Digital Signal Processing Lab", "credits": 1},
+    {"subject": "Constitution of India", "credits": 0}
+  ],
+  "CSD": [
+    {"subject": "Design and Analysis of Algorithms", "credits": 3},
+    {"subject": "Artificial Intelligence", "credits": 3},
+    {"subject": "Database Management System", "credits": 3},
+    {"subject": "Operating System", "credits": 3},
+    {"subject": "Software Engineering", "credits": 3},
+    {"subject": "Skill Enhancement Course-2", "credits": 2},
+    {"subject": "Design Thinking and Innovation", "credits": 2},
+    {"subject": "Design and Analysis of Algorithms Lab", "credits": 1},
+    {"subject": "Database Management System Lab", "credits": 1},
+    {"subject": "Operating System Software Engineering Lab", "credits": 1},
+    {"subject": "Environmental Science", "credits": 0}
+    ],
+  "IOT": [
+    {"subject": "Computational Satistics", "credits": 3},
+    {"subject": "Fundamentals of IoT", "credits": 3},
+    {"subject": "Database Management System", "credits": 3},
+    {"subject": "Operating System", "credits": 3},
+    {"subject": "Computer Networks", "credits": 3},
+    {"subject": "Skill Enhancement Course-2", "credits": 2},
+    {"subject": "Design Thinking and Innovation", "credits": 2},
+    {"subject": "Fundamentals of IoT Lab", "credits": 1.5},
+    {"subject": "Database Management System Lab", "credits": 1.5},
+    {"subject": "Environmental Science", "credits": 0}
+  ]
+  }
+},
+
+"3": {
+   "1":{
+  "CSE": [
+    {"subject": "Automata Theory and Formal Languages", "credits": 3},
+    {"subject": "Computer Networks", "credits": 3},
+    {"subject": "Professional Elective-I", "credits": 3},
+    {"subject": "Professional Elective-II", "credits": 3},
+    {"subject": "Open Elective-I", "credits": 3},
+    {"subject": "Web Technologies", "credits": 2},
+    {"subject": "Skill Enhancement Course-3", "credits": 2},
+    {"subject": "Summer Internship-1", "credits": 1},
+    {"subject": "Data Analysis Lab", "credits": 1},
+    {"subject": "Web Technologies Lab", "credits": 1},
+    {"subject": "Technical Paper Writing and IPR", "credits": 0}
+  ],
+  "IT": [
+    {"subject": "Automata Theory and Formal Languages", "credits": 3},
+    {"subject": "Computer Networks", "credits": 3},
+    {"subject": "Professional Elective-I", "credits": 3},
+    {"subject": "Professional Elective-II", "credits": 3},
+    {"subject": "Open Elective-I", "credits": 3},
+    {"subject": "Web Technologies", "credits": 3},
+    {"subject": "Skill Enhancement Course-3", "credits": 2},
+    {"subject": "Summer Internship", "credits": 1},
+    {"subject": "Data Analysis Lab", "credits": 1},
+    {"subject": "Web Technologies Lab", "credits": 1},
+    {"subject": "Technical Paper Writing and IPR", "credits": 0}
+  ],
+  "CSM": [
+    {"subject": "Theory of Computation", "credits": 2},
+    {"subject": "Software Engineering", "credits": 3},
+    {"subject": "Professional Elective-I", "credits": 3},
+    {"subject": "Professional Elective-II", "credits": 3},
+    {"subject": "Open Elective-I", "credits": 3},
+    {"subject": "Machine Learning", "credits": 3},
+    {"subject": "Skill Enhancement Course-3", "credits": 2},
+    {"subject": "Summer Internship-1", "credits": 1},
+    {"subject": "Professional Elective-II Lab", "credits": 1},
+    {"subject": "Machine Learning Lab", "credits": 1},
+    {"subject": "Technical Paper Writing and IPR", "credits": 0}
+  ],
+  "CSBS": [
+    {"subject": "Data Analytics", "credits": 3},
+    {"subject": "Computer Networks", "credits": 3},
+    {"subject": "Professional Elective-1", "credits": 3},
+    {"subject": "Professional Elective-II", "credits": 3},
+    {"subject": "Open Elective-1 Operations Research", "credits": 3},
+    {"subject": "Web Technologies", "credits": 2},
+    {"subject": "Skill Enhancement Course-3", "credits": 2},
+    {"subject": "Summer Internship-1", "credits": 1},
+    {"subject": "Data Warehousing and Data Mining Lab", "credits": 1},
+    {"subject": "Web Technologies Lab", "credits": 1},
+    {"subject": "Technical Paper Writing and IPR", "credits": 0}
+  ],
+  "CIVIL": [
+    {"subject": "Design of Reinforced Concrete Structural Elements", "credits": 3},
+    {"subject": "Structural Analysis", "credits": 3},
+    {"subject": "Professional Elective-I", "credits": 3},
+    {"subject": "Professional Elective-II", "credits": 3},
+    {"subject": "Open Elective-I", "credits": 3},
+    {"subject": "Skill Enhancement Course-3", "credits": 2},
+    {"subject": "Summer Internship-1", "credits": 1},
+    {"subject": "Tinkering Lab", "credits": 1},
+    {"subject": "Environmental Engineering Lab", "credits": 1},
+    {"subject": "Computer Aided Analysis and Design Lab", "credits": 1}
+  ],
+  "CHEMICAL": [
+    {"subject": "Mass Transfer Operations-I", "credits":3},
+    {"subject": "Chemical Reaction Engineering-II", "credits":3},
+    {"subject": "Professional Elective-I", "credits":3},
+    {"subject": "Professional Elective-II", "credits":3},
+    {"subject": "Open Elective-I", "credits":3},
+    {"subject": "Skill Enhancement Course-3", "credits":2},
+    {"subject": "Summer Internship-1", "credits":1},
+    {"subject": "Tinkering Lab", "credits":1},
+    {"subject": "Mass Transfer Operations-I Lab", "credits":1},
+    {"subject": "Chemical Reaction Engineering Lab", "credits":1}
+  ],
+  "MECH": [
+    {"subject": "Applied Thermodynamics-I", "credits": 4},
+    {"subject": "Machine Design-I", "credits": 4},
+    {"subject": "Mechanics and Dynamics of Machines", "credits": 4},
+    {"subject": "Heat Transfer-I", "credits": 3},
+    {"subject": "Engineering Inspection and Metrology", "credits": 3},
+    {"subject": "Engineering Economics", "credits": 3},
+    {"subject": "Heat Transfer – I Lab", "credits": 1},
+    {"subject": "Engineering Inspection and Metrology Lab", "credits": 1},
+    {"subject": "Internship-II (SAI-Academia)", "credits": 1}
+  ],
+  "ECE": [
+    {"subject": "Digital Communication", "credits": 3},
+    {"subject": "VLSI Design", "credits": 3},
+    {"subject": "Professional Elective-I", "credits": 3},
+    {"subject": "Professional Elective-II", "credits": 3},
+    {"subject": "Open Elective-I", "credits": 3},
+    {"subject": "Skill Enhancement Course-3", "credits": 2},
+    {"subject": "Summer Internship-1", "credits": 1},
+    {"subject": "Tinkering Lab", "credits": 1.5},
+    {"subject": "Analog and Digital Communication Lab", "credits": 1.5},
+    {"subject": "Embedded Systems Lab", "credits": 1}
+  ],
+  "EEE": [
+    {"subject": "Digital Communication", "credits": 3},
+    {"subject": "VLSI Design", "credits": 3},
+    {"subject": "Professional Elective-I", "credits": 3},
+    {"subject": "Professional Elective-II", "credits": 3},
+    {"subject": "Open Elective-I", "credits": 3},
+    {"subject": "Skill Enhancement Course-3", "credits": 2},
+    {"subject": "Summer Internship-1", "credits": 1},
+    {"subject": "Tinkering Lab", "credits": 1.5},
+    {"subject": "Analog and Digital Communication Lab", "credits": 1.5},
+    {"subject": "Embedded Systems Lab", "credits": 1}
+  ],
+  "CSD": [
+    {"subject": "Automata and Compiler Design", "credits": 3},
+    {"subject": "Computer Networks", "credits": 3},
+    {"subject": "Professional Elective-I", "credits": 3},
+    {"subject": "Professional Elective-II", "credits": 3},
+    {"subject": "Open Elective-I", "credits": 3},
+    {"subject": "Web Technologies", "credits": 2},
+    {"subject": "Skill Enhancement Course-3", "credits": 2},
+    {"subject": "Summer Internship-1", "credits": 1},
+    {"subject": "Professional Elective-II Lab", "credits": 1},
+    {"subject": "Web Technologies Lab", "credits": 1},
+    {"subject": "Technical Paper Writing and IPR", "credits": 0}
+  ],
+  "IOT": [
+    {"subject": "Theory of Computation", "credits": 2},
+    {"subject": "Software Engineering", "credits": 3},
+    {"subject": "Professional Elective-I", "credits": 3},
+    {"subject": "Professional Elective-II", "credits": 3},
+    {"subject": "Open Elective-I", "credits": 3},
+    {"subject": "Artificial Intelligence", "credits": 3},
+    {"subject": "Skill Enhancement Course-3", "credits": 2},
+    {"subject": "Summer Internship-1", "credits": 1},
+    {"subject": "Professional Elective-I Lab", "credits": 1},
+    {"subject": "Artificial Intelligence Lab", "credits": 1},
+    {"subject": "Technical Paper Writing and IPR", "credits": 0}
+  ]
+},
+"2":{
+  "CSE": [
+    {"subject": "Cryptography and Network Security", "credits": 3},
+    {"subject": "MERN Stack", "credits": 3},
+    {"subject": "Machine Learning", "credits": 2},
+    {"subject": "Professional Elective-III", "credits": 3},
+    {"subject": "Professional Elective-IV", "credits": 3},
+    {"subject": "Open Elective-II", "credits": 3},
+    {"subject": "Skill Enhancement Course-4", "credits": 2},
+    {"subject": "Tinkering Lab", "credits": 1},
+    {"subject": "MERN Stack Lab", "credits": 1},
+    {"subject": "Machine Learning Lab", "credits": 1}
+  ],
+  "IT": [
+    {"subject": "Cryptography and Network Security", "credits": 3},
+    {"subject": "MERN Stack", "credits": 3},
+    {"subject": "Machine Learning", "credits": 3},
+    {"subject": "Professional Elective-III", "credits": 3},
+    {"subject": "Professional Elective-IV", "credits": 3},
+    {"subject": "Open Elective-II", "credits": 3},
+    {"subject": "Skill Enhancement Course-4", "credits": 2},
+    {"subject": "Tinkering Lab", "credits": 1},
+    {"subject": "MERN Stack Lab", "credits": 1},
+    {"subject": "Machine Learning Lab", "credits": 1}
+  ],
+  "CSM": [
+    {"subject": "Cryptography and Network Security", "credits": 3},
+    {"subject": "Deep Learning", "credits": 3},
+    {"subject": "Cloud Computing", "credits": 2},
+    {"subject": "Professional Elective-III", "credits": 3},
+    {"subject": "Professional Elective-IV", "credits": 3},
+    {"subject": "Open Elective-II", "credits": 3},
+    {"subject": "Skill Enhancement Course-4", "credits": 2},
+    {"subject": "Tinkering Lab", "credits": 1},
+    {"subject": "Deep Learning Lab", "credits": 1},
+    {"subject": "Professional Elective-III Lab", "credits": 1}
+  ],
+  "CSBS": [
+    {"subject": "Cryptography and Network Security", "credits": 3},
+    {"subject": "Human Resource Management", "credits": 2},
+    {"subject": "Compiler Design", "credits": 3},
+    {"subject": "Professional Elective-III", "credits": 3},
+    {"subject": "Professional Elective-IV", "credits": 3},
+    {"subject": "Open Elective-II Utilization of Electrical Energy", "credits": 3},
+    {"subject": "Skill Enhancement Course-4", "credits": 2},
+    {"subject": "Tinkering Lab", "credits": 1},
+    {"subject": "Professional Elective-III Lab", "credits": 1.5},
+    {"subject": "Professional Elective-IV Lab", "credits": 1.5}
+  ],
+  "CIVIL": [
+    {"subject": "Design of Steel Structural Elements", "credits": 3},
+    {"subject": "Geotechnical Engineering", "credits": 3},
+    {"subject": "Hydrology and Irrigation Engineering", "credits": 3},
+    {"subject": "Professional Elective-III", "credits": 3},
+    {"subject": "Professional Elective-IV", "credits": 3},
+    {"subject": "Open Elective-II", "credits": 3},
+    {"subject": "Skill Enhancement Course-4", "credits": 2},
+    {"subject": "Geotechnical Engineering Lab", "credits": 1},
+    {"subject": "Concrete Technology Lab", "credits": 1},
+    {"subject": "Computer Applications Lab", "credits": 1}
+  ],
+  "CHEMICAL": [
+    {"subject": "Mass Transfer Operations-II", "credits": 3},
+    {"subject": "Instrumentation and Process Control", "credits": 3},
+    {"subject": "Industrial Pollution Control", "credits": 3},
+    {"subject": "Professional Elective-III", "credits": 3},
+    {"subject": "Professional Elective-IV", "credits": 3},
+    {"subject": "Open Elective-II", "credits": 3},
+    {"subject": "Skill Enhancement Course-4", "credits": 2},
+    {"subject": "Mass Transfer Operations-II Lab", "credits": 1},
+    {"subject": "Instrumentation and Process Control Lab", "credits": 1},
+    {"subject": "Industrial Pollution Control Lab", "credits": 1}
+  ],
+  "MECH": [
+    {"subject": "Turbomachines", "credits": 3},
+    {"subject": "Automobile Engineering", "credits": 3},
+    {"subject": "Design of Mechanical Drives", "credits": 3},
+    {"subject": "Computer-Aided Design and Drafting", "credits": 3},
+    {"subject": "Refrigeration and Air Conditioning", "credits": 3},
+    {"subject": "Skill Enhancement Course-4", "credits": 2},
+    {"subject": "Heat Transfer Lab", "credits": 1},
+    {"subject": "Power Station Engineering Lab", "credits": 1}
+  ],
+  "ECE": [
+    {"subject": "High Frequency Transmission Lines and Wave Guides", "credits": 3},
+    {"subject": "Antenna Engineering", "credits": 3},
+    {"subject": "Micro Electronic Mechanical Systems", "credits": 3},
+    {"subject": "Renewable Power Generation Systems", "credits": 3},
+    {"subject": "Skill Enhancement Course-4", "credits": 2},
+    {"subject": "IC Applications Lab", "credits": 3},
+    {"subject": "HDL Programming Lab", "credits": 2},
+    {"subject": "Technical Paper Writing and IPR", "credits": 0}
+  ],
+  "EEE": [
+    {"subject": "High Frequency Transmission Lines and Wave Guides", "credits": 3},
+    {"subject": "Antenna Engineering", "credits": 3},
+    {"subject": "Micro Electronic Mechanical Systems", "credits": 3},
+    {"subject": "Renewable Power Generation Systems", "credits": 3},
+    {"subject": "Skill Enhancement Course-4", "credits": 2},
+    {"subject": "IC Applications Lab", "credits": 3},
+    {"subject": "HDL Programming Lab", "credits": 2},
+    {"subject": "Technical Paper Writing and IPR", "credits": 0}
+  ],
+ "CSD": [
+    {"subject": "Cryptography and Network Security", "credits": 2},
+    {"subject": "Deep Learning", "credits": 3},
+    {"subject": "Cloud Computing", "credits": 3},
+    {"subject": "Professional Elective-III", "credits": 3},
+    {"subject": "Professional Elective-IV", "credits": 3},
+    {"subject": "Open Elective-II", "credits": 3},
+    {"subject": "Skill Enhancement Course-4", "credits": 2},
+    {"subject": "Tinkering Lab", "credits": 1},
+    {"subject": "Deep Learning Lab", "credits": 1},
+    {"subject": "Professional Elective-III Lab", "credits": 1}
+  ],
+  "IOT": [
+    {"subject": "Data Analysis", "credits": 2},
+    {"subject": "IoT Architecture and Protocols", "credits": 3},
+    {"subject": "Machine Learning", "credits": 3},
+    {"subject": "Professional Elective-III", "credits": 3},
+    {"subject": "Professional Elective-IV", "credits": 3},
+    {"subject": "Open Elective-II", "credits": 3},
+    {"subject": "Skill Enhancement Course-4", "credits": 2},
+    {"subject": "Tinkering Lab", "credits": 1},
+    {"subject": "IoT Architecture and Protocol Lab", "credits": 1},
+    {"subject": "Machine Learning Lab", "credits": 1}
+  ]
+}
+},
+"4":{
+    "1":{
+  "CSE": [
+    {"subject": "Humanities Elective", "credits": 3},
+    {"subject": "Compiler Design", "credits": 3},
+    {"subject": "Professional Elective-V", "credits": 3},
+    {"subject": "Professional Elective-VI MOOCs", "credits": 2},
+    {"subject": "Open Elective-III MOOCs", "credits": 2},
+    {"subject": "Skill Enhancement Course-5", "credits": 2},
+    {"subject": "Summer Internship-2", "credits": 2},
+    {"subject": "Program Specific Lab", "credits": 1},
+    {"subject": "Professional Elective-IV Lab", "credits": 1},
+    {"subject": "Term Paper", "credits": 1}
+  ],
+  "IT": [
+    {"subject": "Humanities Elective", "credits": 3},
+    {"subject": "Compiler Design", "credits": 3},
+    {"subject": "Professional Elective-V", "credits": 3},
+    {"subject": "Professional Elective-VI MOOCs", "credits": 2},
+    {"subject": "Open Elective-III MOOCs", "credits": 2},
+    {"subject": "Skill Enhancement Course-5", "credits": 2},
+    {"subject": "Summer Internship-2", "credits": 2},
+    {"subject": "IoT Lab", "credits": 1},
+    {"subject": "Professional Elective-IV Lab", "credits": 1},
+    {"subject": "Term Paper", "credits": 1}
+  ],
+  "CSM": [
+    {"subject": "Humanities Elective", "credits": 3},
+    {"subject": "Natural Language Processing", "credits": 3},
+    {"subject": "Professional Elective-V", "credits": 3},
+    {"subject": "Professional Elective-VI MOOCs", "credits": 2},
+    {"subject": "Open Elective-III MOOCs", "credits": 2},
+    {"subject": "Skill Enhancement Course-5", "credits": 2},
+    {"subject": "Summer Internship-2", "credits": 2},
+    {"subject": "Natural Language Processing Lab", "credits": 1},
+    {"subject": "Professional Elective-V Lab", "credits": 1},
+    {"subject": "Term Paper", "credits": 1}
+  ],
+  "CSBS": [
+    {"subject": "Advanced Social Text and Media Analytics", "credits": 2},
+    {"subject": "Modern Web Applications", "credits": 3},
+    {"subject": "Professional Elective-V", "credits": 3},
+    {"subject": "Professional Elective-VI MOOCs", "credits": 2},
+    {"subject": "Open Elective-III MOOCs", "credits": 2},
+    {"subject": "Skill Enhancement Course-5", "credits": 2},
+    {"subject": "Summer Internship-2", "credits": 2},
+    {"subject": "Advanced Social Text and Media Analytics Lab", "credits": 1},
+    {"subject": "Professional Elective-V Lab", "credits": 1},
+    {"subject": "Term Paper", "credits": 1}
+  ],
+  "CIVIL": [
+    {"subject": "Construction Management", "credits": 3},
+    {"subject": "Highway Engineering", "credits": 3},
+    {"subject": "Professional Elective-V", "credits": 3},
+    {"subject": "Professional Elective-VI MOOCs", "credits": 2},
+    {"subject": "Open Elective-III MOOCs", "credits": 2},
+    {"subject": "Estimation and Costing", "credits": 3},
+    {"subject": "Skill Enhancement Course-5", "credits": 2},
+    {"subject": "Summer Internship-2", "credits": 2},
+    {"subject": "Transportation Engineering Lab", "credits": 1}
+  ],
+  "CHEMICAL": [
+    {"subject": "HS Elective", "credits": 3},
+    {"subject": "Transport Phenomena", "credits": 3},
+    {"subject": "Professional Elective-V", "credits": 3},
+    {"subject": "Professional Elective-VI MOOCs", "credits": 2},
+    {"subject": "Open Elective-III MOOCs", "credits": 2},
+    {"subject": "Chemical Process and Equipment Design", "credits": 3},
+    {"subject": "Skill Enhancement Course-5", "credits": 2},
+    {"subject": "Summer Internship-2", "credits": 2},
+    {"subject": "Computer Aided Process Equipment Design Lab", "credits": 1}
+  ],
+  "MECH": [
+    {"subject": "Industrial Management", "credits": 3},
+    {"subject": "Metrology and Measurements", "credits": 3},
+    {"subject": "Professional Elective-V", "credits": 3},
+    {"subject": "Professional Elective-VI MOOCs", "credits": 2},
+    {"subject": "Open Elective-III MOOCs", "credits": 2},
+    {"subject": "Automation and CAM", "credits": 3},
+    {"subject": "Skill Enhancement Course-5", "credits": 2},
+    {"subject": "Summer Internship-2", "credits": 2},
+    {"subject": "Design and Metrology Lab", "credits": 1},
+    {"subject": "CAM Lab", "credits": 1}
+  ],
+  "ECE": [
+    {"subject": "Industrial Management and Entrepreneurship", "credits": 3},
+    {"subject": "Microwave Engineering", "credits": 3},
+    {"subject": "Professional Elective-V", "credits": 3},
+    {"subject": "Professional Elective-VI MOOCs", "credits": 2},
+    {"subject": "Open Elective-III MOOCs", "credits": 2},
+    {"subject": "Antennas and Wave Propagation", "credits": 3},
+    {"subject": "Skill Enhancement Course-5", "credits": 2},
+    {"subject": "Summer Internship-2", "credits": 2},
+    {"subject": "Advanced Communication Lab", "credits": 1},
+    {"subject": "Term Paper", "credits": 1}
+  ],
+  "EEE": [
+    {"subject": "Industrial Management and Entrepreneurship", "credits": 3},
+    {"subject": "Microwave Engineering", "credits": 3},
+    {"subject": "Professional Elective-V", "credits": 3},
+    {"subject": "Professional Elective-VI MOOCs", "credits": 2},
+    {"subject": "Open Elective-III MOOCs", "credits": 2},
+    {"subject": "Antennas and Wave Propagation", "credits": 3},
+    {"subject": "Skill Enhancement Course-5", "credits": 2},
+    {"subject": "Summer Internship-2", "credits": 2},
+    {"subject": "Advanced Communication Lab", "credits": 1},
+    {"subject": "Term Paper", "credits": 1}
+  ],
+  "CSD": [
+    {"subject": "Humanities Elective", "credits": 3},
+    {"subject": "Natural Language Processing", "credits": 3},
+    {"subject": "Professional Elective-V", "credits": 3},
+    {"subject": "Professional Elective-VI MOOCs", "credits": 2},
+    {"subject": "Open Elective-III MOOCs", "credits": 2},
+    {"subject": "Skill Enhancement Course-5", "credits": 2},
+    {"subject": "Summer Internship-2", "credits": 2},
+    {"subject": "Natural Language Processing Lab", "credits": 1},
+    {"subject": "Professional Elective-V Lab", "credits": 1},
+    {"subject": "Term Paper", "credits": 1}
+  ],
+  "IOT": [
+    {"subject": "Humanities Elective", "credits": 3},
+    {"subject": "Professional Elective-IV", "credits": 3},
+    {"subject": "Professional Elective-V", "credits": 3},
+    {"subject": "Professional Elective-VI MOOCs", "credits": 2},
+    {"subject": "Open Elective-III MOOCs", "credits": 2},
+    {"subject": "Skill Enhancement Course-5", "credits": 2},
+    {"subject": "Summer Internship-2", "credits": 2},
+    {"subject": "IoT Lab", "credits": 1},
+    {"subject": "Professional Elective-IV Lab", "credits": 1},
+    {"subject": "Term Paper", "credits": 1}
+  ]
+},
+"2":{
+  "CSE": [
+    {"subject": "Internship and Project", "credits": 12}
+  ],
+  "IT": [
+    {"subject": "Internship and Project", "credits": 12}
+  ],
+  "CSM": [
+    {"subject": "Internship and Project", "credits": 12}
+  ],
+  "CSBS": [
+    {"subject": "Internship and Project", "credits": 12}
+  ],
+  "CIVIL": [
+    {"subject": "Environmental Engineering – II", "credits": 3},
+    {"subject": "Construction Planning and Project Management", "credits": 3},
+    {"subject": "Elective – II (e.g. Tall Structures)", "credits": 3},
+    {"subject": "Elective – II other electives", "credits": 3},
+    {"subject": "Project – II", "credits": 6},
+    {"subject": "Grand Viva-Voce", "credits": 1}
+  ],
+  "CHEMICAL": [
+    {"subject": "Internship and Project", "credits": 12}
+  ],
+  "MECH": [
+    {"subject": "Operations Research", "credits": 3},
+    {"subject": "Program Elective - 2", "credits": 3},
+    {"subject": "Program Elective - 3", "credits": 3},
+    {"subject": "Open Elective - 2", "credits": 3},
+    {"subject": "Project - 2", "credits": 6},
+    {"subject": "Grand Viva Voce-II", "credits": 1}
+  ],
+  "ECE": [
+    {"subject": "Internship and Project", "credits": 12}
+  ],
+  "EEE": [
+    {"subject": "Internship and Project", "credits": 12}
+  ],
+  "CSD": [
+    {"subject": "Internship and Project", "credits": 12}
+  ],
+  "IOT": [
+    {"subject": "Internship and Project", "credits": 12}
+  ]
+}
+}
+}
